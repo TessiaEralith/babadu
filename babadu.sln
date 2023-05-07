@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "babadu", "babadu.csproj", "{8123E5B4-CDE5-4E45-9C65-C70AF9E21836}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "read", "..\read\read.csproj", "{1381FC59-3FDB-4DBB-833A-527140B8D1B9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8123E5B4-CDE5-4E45-9C65-C70AF9E21836}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8123E5B4-CDE5-4E45-9C65-C70AF9E21836}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8123E5B4-CDE5-4E45-9C65-C70AF9E21836}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8123E5B4-CDE5-4E45-9C65-C70AF9E21836}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1381FC59-3FDB-4DBB-833A-527140B8D1B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1381FC59-3FDB-4DBB-833A-527140B8D1B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1381FC59-3FDB-4DBB-833A-527140B8D1B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1381FC59-3FDB-4DBB-833A-527140B8D1B9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D7DF93FB-5E4C-445B-B54F-B3671CAFA6AD}
+	EndGlobalSection
+EndGlobal
